@@ -1,0 +1,21 @@
+name: i18nforge-mcp
+displayName: i18nForge - Autonomous App Localization, RTL Arabic & ICU Translation Engine MCP
+description: Universal internationalization & RTL localization engine for Cursor, Claude Code & Windsurf. Generates zero-hallucination contextual translations (AR/FR/ES/DE/JA), extracts hardcoded strings from JSX/TSX to clean locale JSONs, preserves ICU pluralization tokens, and audits bidirectional RTL CSS.
+category: developer-tools
+homepage: https://github.com/AmyGraphics/i18nforge-mcp
+repository: https://github.com/AmyGraphics/i18nforge-mcp
+icon: https://raw.githubusercontent.com/AmyGraphics/i18nforge-mcp/main/icon.png
+keywords:
+  - i18n
+  - localization
+  - rtl-arabic
+  - translation
+  - icu-plurals
+  - react-intl
+  - next-intl
+  - cursor
+  - claude
+  - windsurf
+startCommand:
+  type: http
+  url: https://i18nforge-api.agentweb-hub.workers.dev/mcp

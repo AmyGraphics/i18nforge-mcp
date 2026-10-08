@@ -1,0 +1,9 @@
+{
+  "name": "i18nforge-mcp",
+  "version": "1.0.0",
+  "description": "Autonomous App Localization, RTL Arabic & Contextual ICU Translation Engine MCP for Cursor, Claude & Windsurf",
+  "main": "index.js",
+  "type": "module",
+  "author": "tofan96you",
+  "license": "MIT"
+}
