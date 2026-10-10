@@ -13,6 +13,12 @@ Universal Autonomous App Localization, RTL Arabic & Contextual ICU Translation E
 `https://i18nforge-api.agentweb-hub.workers.dev/mcp`
 
 
+## 🔴 NEW in v1.1 — Live Tool: `preview_locale_formats`
+
+Renders REAL locale output with the actual ECMAScript Intl engine: full dates, numbers, currency and plural categories per locale, plus RTL flags - the exact strings your users will see.
+
+No API key needed — works out of the box.
+
 ## 💰 Pricing
 
 **Start free — 10 requests/day, no signup, no card.** Upgrade only if it earns a place in your workflow.
